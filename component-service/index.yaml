@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  component-service:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-05-01T14:43:20.283663-04:00"
+    description: A Helm chart for Component Service
+    digest: eba40bf53b3a4131af1838f0f1b45c0c0735f9b1c9a8c48263fc053ee3e64610
+    name: component-service
+    type: application
+    urls:
+    - component-service-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-01T14:43:20.28285-04:00"

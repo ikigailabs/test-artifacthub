@@ -3,7 +3,7 @@ entries:
   access-service:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-05-01T11:49:02.112089-04:00"
+    created: "2024-05-01T14:43:14.040809-04:00"
     description: A Helm chart for Access Service
     digest: 75e09c7e3b05e21df3ad98c52ffdfe36bb4a7c6af9e5e86b8049e6a5c4d072bc
     name: access-service
@@ -11,4 +11,4 @@ entries:
     urls:
     - access-service-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-01T11:49:02.111388-04:00"
+generated: "2024-05-01T14:43:14.040081-04:00"
