@@ -3,7 +3,7 @@ entries:
   access-service:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-05-03T15:18:57.817465-04:00"
+    created: "2024-05-03T15:30:05.597946-04:00"
     description: A Helm chart for Access Service
     digest: 13c63fe3f927197fd104382334dc97a289ebb1745e8c0d968c926615253ea7b8
     name: access-service
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-05-03T15:18:57.81618-04:00"
+    created: "2024-05-03T15:30:05.597322-04:00"
     description: A Helm chart for Access Service
     digest: 75e09c7e3b05e21df3ad98c52ffdfe36bb4a7c6af9e5e86b8049e6a5c4d072bc
     name: access-service
@@ -21,15 +21,4 @@ entries:
     urls:
     - access-service-0.1.0.tgz
     version: 0.1.0
-  component-service:
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2024-05-03T15:18:57.818058-04:00"
-    description: A Helm chart for Component Service
-    digest: d568eb7d111755f4c2534af88e96434e42eca956867e26fcfed18198b35f476d
-    name: component-service
-    type: application
-    urls:
-    - component-service-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-05-03T15:18:57.814795-04:00"
+generated: "2024-05-03T15:30:05.596546-04:00"
